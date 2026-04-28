@@ -273,3 +273,6 @@ Este projeto é fornecido como está, para fins educacionais e de demonstração
 
 
 UTILIZADO AGENTE.IA DE AJUSTE/CONSERTO DE SINTAXE E PARA HOSPEDAGEM DO APP POIS EU NAO SABIA FAZER DIREITO!!!!!!!
+
+foi na manus.
+
