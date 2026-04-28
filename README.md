@@ -8,9 +8,7 @@ Um aplicativo mobile moderno para explorar e descobrir personagens icônicos de 
 
 Escaneie o código QR abaixo com seu dispositivo iOS ou Android para abrir o aplicativo no Expo Go:
 
-```
-[QR Code será gerado automaticamente]
-```
+![QR Code - Expo Go](./assets/qr-code.png)
 
 **Link direto do Expo:** [https://expo.dev/accounts/manus/projects/personagens-jogos-app](https://expo.dev/accounts/manus/projects/personagens-jogos-app)
 
