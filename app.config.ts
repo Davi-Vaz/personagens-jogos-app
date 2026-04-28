@@ -32,7 +32,7 @@ const env = {
   appSlug: "personagens-jogos-app",
   // S3 URL of the app logo - set this to the URL returned by generate_image when creating custom logo
   // Leave empty to use the default icon from assets/images/icon.png
-  logoUrl: "",
+  logoUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663260229862/mUaqgA8VmHa6Fsvzw6DcMB/icon-5tUA46sHWo5Fgd9VKPK5qx.webp",
   scheme: schemeFromBundleId,
   iosBundleId: bundleId,
   androidPackage: bundleId,
