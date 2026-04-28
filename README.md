@@ -262,10 +262,14 @@ Este é um projeto de demonstração. Para sugestões ou melhorias, entre em con
 
 Este projeto é fornecido como está, para fins educacionais e de demonstração.
 
----
+---  
 
 **Desenvolvido com ❤️ usando React Native, Expo e NativeWind**
 
 **Versão:** 1.0.0  
 **Data de Criação:** Abril de 2026  
 **Plataformas Suportadas:** iOS 13+, Android 5.0+, Web
+
+
+
+UTILIZADO AGENTE.IA DE AJUSTE/CONSERTO DE SINTAXE E PARA HOSPEDAGEM DO APP POIS EU NAO SABIA FAZER DIREITO!!!!!!!
